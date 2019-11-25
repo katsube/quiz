@@ -1,4 +1,5 @@
 <?php
+sleep(3);
 require_once('common.php');
 
 // 引数（クエリー）を受け取る
